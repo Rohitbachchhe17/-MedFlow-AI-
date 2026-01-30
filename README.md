@@ -8,6 +8,17 @@ https://drive.google.com/file/d/16roDgLEW3_MDSZTLLswai8FWFdjZQNj-/view?usp=shari
 
 ---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/841f38e6-d42a-4a90-bb47-97db777bdd71" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32903684-9c82-4a8f-8cde-ec3fa05ca368" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96928134-28bb-41de-86bf-7be103b6b7f5" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/642ad8c8-9ec5-4b0f-a8b2-0ee5aacf498c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0165ea93-035f-40b0-acc2-bd05cfe20643" />
+
+
 ## ⚡ What is MedFlow AI?
 
 **MedFlow AI** is an intelligent hospital analytics system that automatically converts raw patient admission data into live dashboards using **AI Agents inside n8n** and **Google Sheets**.
@@ -39,15 +50,9 @@ The system:
 
 ---
 
-## 🧠 How It Works
+# Full Demo Video is here : 
+https://drive.google.com/file/d/16roDgLEW3_MDSZTLLswai8FWFdjZQNj-/view?usp=sharing
 
-```mermaid
-flowchart LR
-    A[Patient Data in Google Sheets] --> B[n8n Workflow]
-    B --> C[AI Agent]
-    C --> D[Analytics and KPIs]
-    D --> E[Interactive Dashboard]
-    C --> F[Google Sheet Updates]
 
 ### 📊 Features
 
