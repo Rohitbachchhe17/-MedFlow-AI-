@@ -1,6 +1,4 @@
-# -MedFlow-AI-
 
-# 🏥 MedFlow AI  
 ### AI-Powered Autonomous Hospital Analytics Dashboard (No-Code using n8n + Google Sheets)
 
 🎥 **Full Demo Video**  
